@@ -17,3 +17,9 @@ _If you're looking for the old project for `Using Sessions and Cookies`, you can
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor adds support for `JSON Web Tokens (JWT)` to the API.
+
+## Environment Variable
+
+```
+JWT_SECRET=""
+```
